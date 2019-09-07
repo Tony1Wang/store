@@ -2,4 +2,8 @@
 
 1.0版本，爬取速度过慢，得一个多小时。
 
+![name]https://github.com/Tony1Wang/store/blob/master/pic/1567510580(1).png
+
+
 1.1版本，采用多线程，速度提升明显，毕竟我可是8核齐飞、、、
+![name]https://github.com/Tony1Wang/store/blob/master/pic/1567588377(1).png
