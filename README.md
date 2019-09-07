@@ -8,7 +8,6 @@
 ![name](https://github.com/Tony1Wang/store/blob/master/pic/1567588377(1).png)
 
 ·1.1版本同时加入了定时器，定时运行
-
 多进程+定时器，这里遇到好多坑，记录下：
 刚开始是想用schedule或者是Timer来弄的，但是总是提示not callable，放弃！！
 然后想要windouw任务计划来弄，简单的程序是可以定时运行，但是这个复杂一点的吗也总是各种失败，放弃！！
