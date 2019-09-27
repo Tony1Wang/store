@@ -88,7 +88,7 @@ def csv_to_dict(h):
 
 def send_email(data):
     yag = yagmail.SMTP("*********@qq.com", '*******', 'smtp.qq.com', 465)
-    yag.send(['13764881640@163.com', '619959298@qq.com'], '商品价格异常紧急提醒', data)
+    yag.send(['***********@163.com', '*******@qq.com'], '商品价格异常紧急提醒', data)
 
 
 if __name__ == '__main__':
