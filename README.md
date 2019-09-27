@@ -15,5 +15,3 @@
 最后用while 1<2 加上time.sleep，简单搞定。。。
 
 ·2.0 版本同时加入价格对比，和邮件提醒，当前爬取的商品价格对比前1个小时的商品价格，如果价格降幅大于25%就发送邮件提醒
-![name](https://github.com/Tony1Wang/store/blob/master/pic/1567588377(1).png)
-
